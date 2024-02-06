@@ -34,25 +34,27 @@
 												<td width="100%">
 													<table border="0" cellpadding="0" cellspacing="0" width="100%">
 														<tr>
-															<td><img src="https://github.com/ung03003/hanwha/blob/main/APEX_eDM_01.jpg?raw=true"
-																	width="730" height="auto" style="display:block"></td>
+															<td><img src="파트너X/APEX_eDM_01.jpg"
+																	width="700" height="599" style="display:block"></td>
 														</tr>
 														<tr>
-															<td><img src="https://github.com/ung03003/hanwha/blob/main/APEX_eDM_02.jpg?raw=true"
-																	width="730" height="auto" usemap="#pdf_page" style="display:block"></td>
+															<td><img src="파트너X/APEX_eDM_02.jpg"
+																	width="700" height="820" usemap="#pdf_page" style="display:block"></td>
 														</tr>
 														<tr>
-															<td><img src="https://github.com/ung03003/hanwha/blob/main/APEX_eDM_03.jpg?raw=true"
-																	width="730" height="auto" usemap="#pdf_page" style="display:block"></td>
+															<td><a href="https://www.ipcapexexpo.org/2024-registration-options"><img src="파트너X/APEX_eDM_03.jpg"
+																	width="700" height="54" usemap="#pdf_page" style="display:block"></a></td>
 														</tr>
-														<tr>
-															<td><img src="https://github.com/ung03003/hanwha/blob/main/APEX_eDM_04.jpg?raw=true"
-																	width="730" height="auto" usemap="#pdf_page" style="display:block"></td>
-														</tr>
+
+													  <tr>
+															<td><img src="파트너X/APEX_eDM_04.jpg"
+																	width="700" height="179" usemap="#pdf_page" style="display:block"></td>
+														
+													  </tr>
 														
 														<tr>
-															<td><a href="https://www.smartsmt.kr/?lang=ko"><img src="https://github.com/ung03003/hanwha/blob/main/APEX_eDM_05.jpg?raw=true"
-																	width="730" height="auto" usemap="#pdf_page" style="display:block"></a></td>
+															<td><a href="https://www.hanwha-pm.com/ko/company/info.asp"><img src="파트너X/APEX_eDM_05.jpg"
+																	width="700" height="94" usemap="#pdf_page" style="display:block"></a></td>
 														</tr>														
 
 													
